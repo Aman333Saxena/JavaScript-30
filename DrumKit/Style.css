@@ -1,5 +1,13 @@
-html
+body, html
 {
-    background: url(Background.jpg);
+
+    height: 100%;
+    margin: 10px 10px 10px 10px;
+    background-image: url(Background.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
 }
+
+
